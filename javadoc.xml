@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="org.microprog.regex" default="javadoc">
+    <target name="javadoc">
+        <javadoc
+            destdir="E:\Programs\Java\Eclipse\Plugins\org.microprog.regex\doc"
+            access="public" use="true" notree="false" nonavbar="false"
+            noindex="false" splitindex="true" author="true"
+            version="true" nodeprecatedlist="false" nodeprecated="false"
+            packagenames="org.microprog.regex.wizards,org.microprog.regex.editors,org.microprog.regex"
+            sourcepath="E:\Programs\Java\Eclipse\Plugins\org.microprog.regex\src"
+            classpath="E:\Programs\Java\Eclipse\Plugins\org.microprog.regex\bin;E:\Programs\Java\Eclipse\Plugins\org.microprog.regex\lib\jakarta-oro-2.0.7-dev-1.jar;G:\eclipse\plugins\org.eclipse.core.resources_2.0.1\resources.jar;G:\eclipse\plugins\org.eclipse.ui_2.0.2\workbench.jar;G:\eclipse\plugins\org.eclipse.ui.win32_2.0.0\workbenchwin32.jar;G:\eclipse\plugins\org.eclipse.swt.win32_2.0.2\ws\win32\swt.jar;G:\eclipse\plugins\org.eclipse.core.runtime_2.0.2\runtime.jar;G:\eclipse\plugins\org.eclipse.core.boot_2.0.2\boot.jar" doctitle="Regular Expression Editor"/>
+    </target>
+</project>
